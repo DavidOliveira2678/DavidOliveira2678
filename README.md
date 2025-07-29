@@ -1,4 +1,4 @@
-## Sobre mim
+# Sobre mim
 Olá, meu nome é **David Willyam**, prazer! :wave:
 - :computer: Estudante de ADS *(Análise e Desenvolvimento de Sistemas)* pelo IFPE;
 - :art: Pixel artista e animador em pixel art;
