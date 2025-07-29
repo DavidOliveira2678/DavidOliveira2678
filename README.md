@@ -1,16 +1,18 @@
-## Hi there 👋
+## Sobre mim
+Olá, meu nome é **David Willyam**, prazer! :wave:
+- :computer: Estudante de ADS *(Análise e Desenvolvimento de Sistemas)* pelo IFPE;
+- :art: Pixel artista e animador em pixel art;
+- :space_invader: Desenvolvedor de jogos na Clickteam Fusion 2.5 nas horas vagas;
+- :rocket: Viso melhorar meus conhecimentos nas diversas linguagens de programação existentes na área de TI.
 
-<!--
-**DavidOliveira2678/DavidOliveira2678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Informações
+- Email: david.willyam23@gmail.com
+- Portfólio: https://www.artstation.com/davez2678
+- itch.io: https://davez2678.itch.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Linguagens
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
