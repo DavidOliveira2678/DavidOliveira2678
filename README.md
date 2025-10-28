@@ -14,5 +14,5 @@ Olá, meu nome é **David Willyam**, prazer! :wave:
 
 ---
 
-## Linguagens
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://skillicons.dev)
+## Linguagens & Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,java,mysql&perline=10)](https://skillicons.dev)
