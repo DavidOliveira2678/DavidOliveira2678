@@ -1,8 +1,7 @@
 # Sobre mim
 Olá, meu nome é **David Willyam**, prazer! :wave:
 - :computer: Estudante de ADS *(Análise e Desenvolvimento de Sistemas)* pelo IFPE;
-- :art: Pixel artista e animador em pixel art;
-- :space_invader: Desenvolvedor de jogos na Clickteam Fusion 2.5 nas horas vagas;
+- :art: Pixel artista, animador em pixel art e desenvolvedor de jogos nas horas vagas;
 - :rocket: Viso melhorar meus conhecimentos nas diversas linguagens de programação existentes na área de TI.
 
 ---
@@ -15,4 +14,4 @@ Olá, meu nome é **David Willyam**, prazer! :wave:
 ---
 
 ## Linguagens & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,java,mysql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,java,mysql,vscode,eclipse&perline=10)](https://skillicons.dev)
