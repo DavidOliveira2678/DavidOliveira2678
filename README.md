@@ -14,4 +14,4 @@ Olá, meu nome é **David Willyam**, prazer! :wave:
 ---
 
 ## Linguagens & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,java,mysql,vscode,eclipse&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,java,mysql,idea,vscode,eclipse,linux&perline=10)](https://skillicons.dev)
